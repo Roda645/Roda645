@@ -21,6 +21,8 @@ Soy estudiante avanzado de Ingeniería en Informática y Desarrollador Full-Stac
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Scrumban](https://img.shields.io/badge/Scrumban-4B0082?style=for-the-badge)
 
 ## 🚀 Proyectos Destacados
 
@@ -32,6 +34,9 @@ Soy estudiante avanzado de Ingeniería en Informática y Desarrollador Full-Stac
 ## 🎓 Formación Continua
 *   Estudiante de Ingeniería en Informática (UCASAL).
 *   Certificaciones en IA Generativa (Google Cloud) y Ciberseguridad (Coursera).
+*   **Mis Credenciales:**
+    *   🏆 [Perfil en Google Skills](https://www.skills.google/public_profiles/635aaebf-a88e-43cd-80ec-6fa23ee64732)
+    *   🏅 [Perfil en Credly](https://www.credly.com/users/rodrigo-ismael-cabana)
 
 ## 📫 Cómo contactarme
 [![LinkedIn](https://www.linkedin.com/in/rodrigo-ismael-cabana-4564a037a/)](TU_ENLACE_A_LINKEDIN)
