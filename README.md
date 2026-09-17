@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! Soy Rodrigo 👋
 
-<!--
-**Roda645/Roda645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante avanzado de Ingeniería en Informática y Desarrollador Full-Stack. Me apasiona crear soluciones web escalables, aplicar metodologías ágiles y explorar continuamente el mundo de la ciberseguridad y la Inteligencia Artificial.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Backend & Base de Datos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Metodologías, Diseño y Versionado
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge&logo=scrum&logoColor=white)
+
+## 🚀 Proyectos Destacados
+
+*   **Fisiocore:** Aplicación web integral bajo metodología Scrum para la gestión de un centro de rehabilitación, roles de usuario y registros clínicos. *(Next.js, PostgreSQL)*
+*   **SGI Coca-Cola:** Plataforma de e-commerce y sistema de gestión de productos y pagos. *(Express, Node.js, SQL Server)*
+*   **NovaSuites / Roda-Imperial-Hotel:** Sistema backend para la gestión y reservas hoteleras.
+*   **Kallos-idea & Jovenesorbita:** Proyectos web en desarrollo con esquemas relacionales robustos. *(Next.js, Prisma ORM)*
+
+## 🎓 Formación Continua
+*   Estudiante de Ingeniería en Informática (UCASAL).
+*   Certificaciones en IA Generativa (Google Cloud) y Ciberseguridad (Coursera).
+
+## 📫 Cómo contactarme
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_A_LINKEDIN)
