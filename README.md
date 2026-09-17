@@ -24,12 +24,16 @@ Soy estudiante avanzado de Ingeniería en Informática y Desarrollador Full-Stac
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Scrumban](https://img.shields.io/badge/Scrumban-4B0082?style=for-the-badge)
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados y Colaboraciones
 
-*   **Fisiocore:** Aplicación web integral bajo metodología Scrum para la gestión de un centro de rehabilitación, roles de usuario y registros clínicos. *(Next.js, PostgreSQL)*
-*   **SGI Coca-Cola:** Plataforma de e-commerce y sistema de gestión de productos y pagos. *(Express, Node.js, SQL Server)*
-*   **NovaSuites / Roda-Imperial-Hotel:** Sistema backend para la gestión y reservas hoteleras.
-*   **Kallos-idea & Jovenesorbita:** Proyectos web en desarrollo con esquemas relacionales robustos. *(Next.js, Prisma ORM)*
+*   **[Fisiocore](https://github.com/SebastianDaza007/fisiocore):** Aplicación web integral bajo metodología Scrum para la gestión de un centro de rehabilitación, roles de usuario y registros clínicos. *(Next.js, PostgreSQL)*
+    *   **Mi rol:** Desarrollador Full-Stack / Colaborador en modelado de base de datos y vistas.
+*   **[SGI Coca-Cola](https://github.com/EmanuelFrias/SGI-Coca-Cola):** Plataforma de e-commerce y sistema de gestión de productos y pagos. *(Express, Node.js, SQL Server)*
+    *   **Mi rol:** Desarrollador Backend / Conexiones a base de datos y lógica de compras.
+*   **[Imperial-Hotel](https://github.com/Roda645/Imperial-Hotel):** Sistema backend para la gestión y reservas hoteleras.
+    *   **Mi rol:** Configuración de entorno y gestión de copias de seguridad de base de datos.
+*   **Kallos:** Proyectos web en desarrollo con esquemas relacionales robustos. *(Next.js, Prisma ORM)*
+    *   **Mi rol:** Desarrollador Full-Stack.
 
 ## 🎓 Formación Continua
 *   Estudiante de Ingeniería en Informática (UCASAL).
