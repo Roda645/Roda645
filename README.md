@@ -34,4 +34,4 @@ Soy estudiante avanzado de Ingeniería en Informática y Desarrollador Full-Stac
 *   Certificaciones en IA Generativa (Google Cloud) y Ciberseguridad (Coursera).
 
 ## 📫 Cómo contactarme
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_A_LINKEDIN)
+[![LinkedIn](https://www.linkedin.com/in/rodrigo-ismael-cabana-4564a037a/)](TU_ENLACE_A_LINKEDIN)
