@@ -39,4 +39,4 @@ Soy estudiante avanzado de Ingeniería en Informática y Desarrollador Full-Stac
     *   🏅 [Perfil en Credly](https://www.credly.com/users/rodrigo-ismael-cabana)
 
 ## 📫 Cómo contactarme
-[![LinkedIn](https://www.linkedin.com/in/rodrigo-ismael-cabana-4564a037a/)](TU_ENLACE_A_LINKEDIN)
+[![LinkedIn](https://www.linkedin.com/in/rodrigo-ismael-cabana-4564a037a/)]
